@@ -1,6 +1,6 @@
 # Hi there, I'm Adro Ornelas 👋
 
-I am a **Software Development Technologist** and **Mechatronics Engineering student**. I focus on low-level firmware efficiency, resource optimization, and minimalist code.
+I am a **Software Development Technologist** and **Mechatronics Engineering student**. I focus on low-level firmware efficiency, resource optimization, and minimalist code. **(I use Arch btw)**
 
 ### 🛠️ Technical Stack
 - **Embedded:** C, C++, ESP-IDF, PlatformIO, Arduino, I2C, UART
@@ -16,8 +16,6 @@ I am a **Software Development Technologist** and **Mechatronics Engineering stud
 - **1st Place Academic Ranking** – Software Development Technologist at CETI (96.9/100 GPA).
 - **Software Development Technologist at CETI (2022 - 2026)** - Centro de Enseñanza Técnica Industrial.
 - **B.S. Mechatronics Engineering (2026 - currently)** – Universidad Autónoma de Guadalajara (UAG).
-
-### I use Arch btw
 
 <!--
 **Adotal/adotal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
