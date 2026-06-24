@@ -1,4 +1,20 @@
-## Hi there 👋
+# Hi there, I'm Adro Ornelas 👋
+
+I am a **Software Development Technologist** and **Mechatronics Engineering student** based. I focus on low-level firmware efficiency, resource optimization, and minimalist code.
+
+### 🛠️ Technical Stack
+- **Embedded:** C, C++, ESP-IDF, PlatformIO, Arduino, I2C, UART
+- **High-Level & Cloud:** Node.js, PostgreSQL, MySQL, Java, Flutter, REST APIs
+- **OS & Tools:** Linux, Git, GitHub (obviusly xD)
+
+### 🚀 Key Projects
+- **Diakron:** Automatic waste segregator using ESP32-CAM (C/C++), Node.js/Supabase backend, and a Flutter mobile app.
+- **LightChat:** Java-based client-server real-time messaging application.
+- **Heartware:** E-commerce platform with Node.js/MySQL backend and PayPal integration.
+
+### 📈 Education & Achievements
+- 🏆 **1st Place Academic Ranking** – Software Development Technologist at CETI (96.9/100 GPA).
+- 🤖 **B.S. Mechatronics Engineering** – Universidad Autónoma de Guadalajara (UAG).
 
 <!--
 **Adotal/adotal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
