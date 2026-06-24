@@ -13,8 +13,10 @@ I am a **Software Development Technologist** and **Mechatronics Engineering stud
 - **Heartware:** E-commerce platform with Node.js/MySQL backend and PayPal integration.
 
 ### 📈 Education & Achievements
-- 🏆 **1st Place Academic Ranking** – Software Development Technologist at CETI (96.9/100 GPA).
-- 🤖 **B.S. Mechatronics Engineering** – Universidad Autónoma de Guadalajara (UAG).
+-  **1st Place Academic Ranking** – Software Development Technologist at CETI (96.9/100 GPA).
+-  **B.S. Mechatronics Engineering** – Universidad Autónoma de Guadalajara (UAG).
+
+### I use Arch btw
 
 <!--
 **Adotal/adotal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
