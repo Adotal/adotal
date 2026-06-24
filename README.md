@@ -7,14 +7,15 @@ I am a **Software Development Technologist** and **Mechatronics Engineering stud
 - **High-Level & Cloud:** Node.js, PostgreSQL, MySQL, Java, Flutter, REST APIs
 - **OS & Tools:** Linux, Git, GitHub (obviusly xD)
 
-### 🚀 Key Projects
+### 🚀 Projects
 - **Diakron:** Automatic waste segregator using ESP32-CAM (C/C++), Node.js/Supabase backend, and a Flutter mobile app.
 - **LightChat:** Java-based client-server real-time messaging application.
 - **Heartware:** E-commerce platform with Node.js/MySQL backend and PayPal integration.
 
 ### 📈 Education & Achievements
 - **1st Place Academic Ranking** – Software Development Technologist at CETI (96.9/100 GPA).
-- **B.S. Mechatronics Engineering** – Universidad Autónoma de Guadalajara (UAG).
+- **Software Development Technologist at CETI (2022 - 2026)** - Centro de Enseñanza Técnica Industrial.
+- **B.S. Mechatronics Engineering (2026 - currently)** – Universidad Autónoma de Guadalajara (UAG).
 
 ### I use Arch btw
 
