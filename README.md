@@ -1,6 +1,6 @@
 # Hi there, I'm Adro Ornelas 👋
 
-I am a **Software Development Technologist** and **Mechatronics Engineering student** based. I focus on low-level firmware efficiency, resource optimization, and minimalist code.
+I am a **Software Development Technologist** and **Mechatronics Engineering student**. I focus on low-level firmware efficiency, resource optimization, and minimalist code.
 
 ### 🛠️ Technical Stack
 - **Embedded:** C, C++, ESP-IDF, PlatformIO, Arduino, I2C, UART
